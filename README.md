@@ -1,6 +1,6 @@
 # Projeto Spotify - #7DaysOfCode
 
-### Atenção: o código ainda está em construção.
+### Atenção: o código ainda está em construção. 
 
 Este projeto é fruto do desafio #7DaysOfCode, uma iniciativa da Alura e da Letícia Pires. 
 
